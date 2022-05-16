@@ -1,0 +1,93 @@
+body{
+    background-color: aqua;
+}
+.header{
+  display: flex;
+}
+.content{
+    margin: 120px 40px;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-weight: 20;
+    font-size: 45px;
+}
+p{
+    font-size: 20px;
+   margin: 90px 0px;
+   
+}
+.img{
+    flex-direction: column;
+   
+    margin: 0px 20px;
+    
+}
+.main{
+    display: flex;
+}
+
+
+.child{
+    display: flex;
+    flex-direction: column;
+    margin: 165px 40px;
+    
+}
+h3{
+    font-size: 50px;
+    
+}
+.child,div{
+    font-size: 20px;
+   
+}
+.footer{
+    display: flex;
+  
+}
+.great{
+    display: flex;
+    flex-direction: column;
+    margin: 110px 40px;
+}
+.great h5 a{
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+}
+#logo{
+    text-align: center;
+}
+h4{
+    font-size: 50px;
+}
+h5{
+    font-size: 40px;
+}
+
+h6{
+    font-size: 50px;
+}
+.coder{
+   text-align: left;
+}
+.form{
+text-align: left;
+}
+.form button{
+    padding: 15px;
+   background-color: #893b4c;
+   color: white;
+   border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
